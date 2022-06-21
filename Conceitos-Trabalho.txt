@@ -1,0 +1,1 @@
+Conceitos - Estrutura Condicional, switch, Estrutura de Repetição e Modularização. Trabalho Individual Escolher um cálculo relevante de sua profissão, implementar um menu com opção para leitura dos parâmetros de entrada e outra opção para mostrar os resultados dos cálculos. O algoritmo deve ser capaz de fazer o mesmo cálculo várias vezes sem encerrar o programa.
